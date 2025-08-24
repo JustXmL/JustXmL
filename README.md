@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, world!!!
 
-<!--
-**JustXmL/JustXmL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Hey there! I'm a beginner Game Developer.  
+I enjoy creating worlds, mechanics, and ideas that come to life through code.  
 
-Here are some ideas to get you started:
+Most of my projects (current & future) will be written in **C++**,  
+since it's one of the main languages used in **Game Development** (especially with Unreal Engine 🚀).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ll be posting experiments, small projects, and maybe even full games here.  
+Stick around — there’s more to come! ✨
+
+---
+
+### "Main" languages:
+- C++
+
+### "Just tried" languages:
+- python 
+- Javascript
+- C
+- html&css
+---
+
+### My discord:
+`JustXML_
+

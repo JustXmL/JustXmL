@@ -22,5 +22,5 @@ Stick around — there’s more to come! ✨
 ---
 
 ### My discord:
-`JustXML_
+@JustXML_
 
